@@ -1,7 +1,3 @@
-Here’s the detailed README for the **Noveks TÜV Vehicle Inspection Script**:
-
----
-
 # 🚗 Noveks TÜV Vehicle Inspection Script
 
 **Version:** 1.5.0  
